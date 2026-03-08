@@ -17,3 +17,4 @@ Directory and description:
 - Oneseat - Tiger stripe mod
 - PiDG - Various Voron Switchwire parts
 - Sjack1209 - JW Stealthchanger NH36 Mount
+- LAYERCORE3D - Cable Management, SOVOL08 Support, and more
